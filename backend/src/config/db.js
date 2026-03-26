@@ -16,7 +16,7 @@ pool.getConnection()
             })
 
 .catch(err=>{
-    consol.log('error is connected successfuly!');
+    console.log('error is connected successfuly!');
 
 });
 
